@@ -15,3 +15,5 @@ const mlModels: number[][] = [
     [255, 255, 255],
     []
 ]
+
+export {}
