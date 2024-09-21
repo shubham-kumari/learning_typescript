@@ -1,7 +1,6 @@
 let greetings: string = "shubham"
 console.log(greetings);
 
-export{}
 
 // numbers
 let userId = 5235
@@ -16,3 +15,4 @@ function getHero(){
     return "thor"
 }
 hero = getHero();
+export{}
