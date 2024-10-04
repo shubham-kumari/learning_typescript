@@ -52,7 +52,7 @@ type cardNumber = {
 type cardDate = {
     cardDate: string
 }
-type cardDetails = cardNumber & cardDate & {
+type cardDetails = cardNumber & cardDate & { // & means combine all these things
     cvv: number
 }
 
